@@ -1,2 +1,12 @@
 # tuantu-main
-đây là tool ddos code bằng java được tạo bởi tuấn tú
+sudo apt update
+
+sudo apt install nodejs
+
+sudo apt install npm
+
+git clone https://github.com/shinplus999/shin
+
+cd shin
+
+java shinddos.java
