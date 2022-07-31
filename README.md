@@ -5,8 +5,8 @@ sudo apt install nodejs
 
 sudo apt install npm
 
-git clone https://github.com/shinplus999/shin
+git clone https://github.com/KaywhiteTu/tuantu-main
 
-cd shin
+cd tuantu-main
 
-java shinddos.java
+java tuantuddos.java
