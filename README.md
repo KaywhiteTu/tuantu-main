@@ -1,5 +1,6 @@
 # tuantu-main
 Windows Chạy Trên Cloud Shell 
+kali linux xài được 
 
 sudo apt update
 
